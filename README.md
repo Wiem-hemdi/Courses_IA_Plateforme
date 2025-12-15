@@ -104,5 +104,4 @@ Projet_edu/
 │ ├── components/ (Navbar, ProtectedRoute)
 │ └── pages/ (...)
 └── vite.config.js
-<img width="595" height="560" alt="image" src="https://github.com/user-attachments/assets/6b9b87a0-af1b-47cf-963a-ee32915a839f" />
 
