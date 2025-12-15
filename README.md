@@ -34,8 +34,6 @@ npm run preview # prévisualiser le build
 
 ## Sommaire
 
-- [Stack & fonctionnalités](#stack--fonctionnalités)  
-- [Structure du dépôt](#structure-du-dépôt)  
 - [Prérequis](#prérequis)  
 - [Configuration des variables d'environnement](#configuration-des-variables-denvironnement)  
 - [Installation & démarrage](#installation--démarrage)  
